@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "name": "Johann S. Grimwald",
+        "name": "Johann Sparda Grimwald",
         "major": "Information Technology"
     },
     {
@@ -23,5 +23,10 @@
         "id": 5,
         "name": "Nguyễn Văn Phúc",
         "major": "Computer Science"
+    },
+    {
+        "id": 6,
+        "name": "Eldric Vu",
+        "major": "Social Engineered"
     }
 ]
