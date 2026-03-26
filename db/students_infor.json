@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "Johann S. Grimwald",
+        "major": "Information Technology"
+    },
+    {
+        "id": 2,
+        "name": "Trần Thị Huyển",
+        "major": "Accounting"
+    },
+    {
+        "id": 3,
+        "name": "Lee Haru",
+        "major": "Marketing"
+    },
+    {
+        "id": 4,
+        "name": "Kim Hannah",
+        "major": "Business Administration"
+    },
+    {
+        "id": 5,
+        "name": "Nguyễn Văn Phúc",
+        "major": "Computer Science"
+    }
+]
